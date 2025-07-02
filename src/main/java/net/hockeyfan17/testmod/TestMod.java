@@ -11,6 +11,6 @@ public class TestMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("yooooo this working!");
+
 	}
 }
